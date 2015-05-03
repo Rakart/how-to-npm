@@ -12,7 +12,5 @@
   },
   "author": "carlos greblo",
   "license": "ISC",
-  "dependencies": {
-    "once": "^1.3.0"
-  }
+  "dependencies": {}
 }
