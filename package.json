@@ -4,12 +4,15 @@
   "description": "tutorial lesson 02",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
     "url": "how-to-npm"
   },
   "author": "carlos greblo",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "once": "^1.3.0"
+  }
 }
